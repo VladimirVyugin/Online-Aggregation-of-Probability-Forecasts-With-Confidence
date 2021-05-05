@@ -1,1 +1,1 @@
-Apply PEA strategy to aggregate expert decisions in electricl load forecasting problem.
+Apply PEA strategy to aggregate expert decisions in electricl load forecasting problem
