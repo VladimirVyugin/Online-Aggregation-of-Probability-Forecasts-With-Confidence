@@ -6,23 +6,7 @@ We use implementation details described in the paper.
 
 ## Implementation of the method
 
-APFC folder contains all the Matlab scripts required to execute the method:
-
-APLF.m is the main file.
-
-initialize.m function inizializes model parameters.
-
-prediction.m function obtain load forecasts and
-probabilistic load forecasts
-in form of aggregated probability distribution function.
-
-test.m function quantifies the prediction errors RMSE and
-MAPE.
-
-update_model.m function updates the model for each new
-training sample.
-
-update_parameters.m function updates model parameters.
+Folders "synthetic_data_exp" and "real_data_exp" contains the Matlab code scripts required to execute the method of Online Aggregation of Probability Forecasts.
 
 ## Data
 
@@ -35,8 +19,8 @@ Hourly load time series
 
 Temperature time series
 
-Date and hour or timestamp when the load is measure
+Date and hour or timestamp when the load is measured
 
 Table of synchronized calendar parameters (seasons, days of week, parts of day)
 
-## Installation
+ 
